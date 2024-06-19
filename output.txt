@@ -1,0 +1,6 @@
+Failed to fetch content from http://www.example.com/article1
+
+Failed to fetch content from http://www.example.com/article2
+
+Failed to fetch content from http://www.example.com/article3
+
